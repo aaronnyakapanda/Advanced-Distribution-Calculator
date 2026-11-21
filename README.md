@@ -92,7 +92,7 @@ and dual calculation modes.
 ### 1. Using Source (Recommended)
 
 ```bash
-git clone https://github.com/ronny-brawn/Advanced-Distribution-Calculator.git
+git clone https://github.com/aaronnyakapanda/Advanced-Distribution-Calculator.git
 cd Advanced-Distribution-Calculator
 
 python -m venv venv
